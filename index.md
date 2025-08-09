@@ -2,14 +2,17 @@
 layout: default
 title: "The Social Psychology of Middle School"
 ---
-# The Social Psychology of Middle School
+ <div style="text-align: center;">
+The Social Psychology of Middle School
+</div>    
 
 <div style="text-align: center;">
   <img src="{{ '/home/home_banner.webp' | relative_url }}" alt="Home Banner" style="max-width: 100%; height: auto; margin-bottom: 20px;">
 </div>
 
-## If you get through this course you will have edited the world.
-
+ <div style="text-align: center;">
+If you get through this course you will have edited the world.
+</div>
 <p>Please fill out the daily student form below:</p>
 
 <div style="text-align: center;">
