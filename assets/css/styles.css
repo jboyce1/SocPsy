@@ -1,7 +1,7 @@
 /* General Styling */
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: #273159; /* Dark blue background */
+    background-color: #182348; /* Dark blue background */
     color: #fff; /* White text */
     margin: 0;
     padding: 0;
@@ -15,7 +15,7 @@ nav {
     top: 0;
     width: 200px;
     height: 100vh;
-    background-color: #1e2a55; /* Darker blue, complementary */
+    background-color: #182348; /* Darker blue, complementary */
     color: #fff;
     padding: 20px 10px;
     overflow-y: auto;
@@ -46,7 +46,7 @@ nav a:hover {
     margin-left: 270px; /* Avoid overlap with left nav */
     margin-right: 220px; /* Avoid overlap with right nav */
     position: relative;
-    background-color: #222; /* Dark background for content */
+    background-color: #182348; /* Dark Blue background for content */
     z-index: 100;
     padding: 20px;
     max-width: calc(100% - 490px);
