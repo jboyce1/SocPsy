@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "The Social Psychology of Middle School"
+title: "The Social Psychology of Adolescence"
 ---
  <div style="text-align: center;">
-The Social Psychology of Middle School
+The Social Psychology of Adolescence
 </div>    
 
 <div style="text-align: center;">
@@ -13,7 +13,7 @@ The Social Psychology of Middle School
  <div style="text-align: center;">
 If you get through this course you will have edited the world.
 </div>
-<p>Please fill out the daily student form below:</p>
+<p>Notice and recognize somebody daily by submitting this form:</p>
 
 <div style="text-align: center;">
   <iframe width="640" height="480" 
