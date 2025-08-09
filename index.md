@@ -3,7 +3,7 @@ layout: default
 title: "The Social Psychology of Adolescence"
 ---
  <div style="text-align: center;">
-The Social Psychology of Adolescence
+<h1>The Social Psychology of Adolescence</h1>
 </div>    
 
 <div style="text-align: center;">
@@ -11,7 +11,7 @@ The Social Psychology of Adolescence
 </div>
 
  <div style="text-align: center;">
-If you get through this course you will have edited the world.
+<h2>If you get through this course you will have edited the world.</h2>
 </div>
 <p>Notice and recognize somebody daily by submitting this form:</p>
 
