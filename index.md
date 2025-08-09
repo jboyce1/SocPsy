@@ -3,7 +3,7 @@ layout: default
 title: "The Social Psychology of Adolescence"
 ---
 <div style="text-align: center;">
-  <h1 style="font-size: 3em; margin-bottom: 0.3em;">The Social Psychology of Adolescence</h1>
+  <h1 style="font-size: 4em; margin-bottom: 0.3em;">Social Psychology of Adolescence</h1>
 </div>    
 
 <div style="text-align: center;">
