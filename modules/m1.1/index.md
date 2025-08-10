@@ -11,9 +11,7 @@ title: 1.1 Fact Finding
 - uses data as evidence to numerically define a problem in middle school  
 - designed a survey that accounted for a wide range of factors while isolating variables to numerically define a problem
 
-<div style="text-align: center;">  
-<p>-------------------------------------------------------------------------</p>  
-</div>
+---
 
 # What is Social Psychology?​​​​​​​
 
@@ -25,18 +23,16 @@ Long Term Project:
 Daily Notebook:
 - [#Class Notebook](https://mypps.sharepoint.com/:w:/s/TheSocialPsychologyofMiddleSchool/EYRbxfTe_LhEqDlVEDdceo8BB2eaweZj95npUBBFg-j2cw?e=KZfHfU)  
 
-Save your own copy of the class notebook and use this 
+Save your own copy of the class notebook 
 Entry #1: Why I am interested in how humans interact and the consequences of those interactions  
 
 [#What is Terrible about Middle School​​​​​​​?](https://forms.gle/D1gXuj8aMK6KpyGU6) (complete between 3-4 submissions)  
 
 [#Classify the Results of “What is Terrible About Middle School”](https://docs.google.com/forms/d/e/1FAIpQLScsJ3E4-YGQNx4tr1i0_ZZuugpQui8OvOdtjIkzVaI00nR_yQ/viewform?usp=sf_link)
 
-<div style="text-align: center;">  
-<p>-------------------------------------------------------------------------</p>  
-</div>
+---
 
-## Research Methods in Psychology & Sociology
+# Research Methods in Psychology & Sociology
 
 AP 1.2 1F Differentiate types of research with regard to purpose, strengths, and weaknesses  
 
@@ -52,11 +48,9 @@ Know and be able to describe attributes of the following research methods:
 
 [#Quizlet Flashcards](https://quizlet.com/_9crl7m?x=1jqt&i=3h252u) - [#Quizizz Flashcards](https://quizizz.com/join/flashcard/5fedf24629384a001bb5dced/start?redirOnGameExit=/admin/reports/5fedf37f0720ae001c8cd88d/players&source=report) - [#Quizizz Quiz](https://quizizz.com/join?gc=29888980) - [#Fiveble overview](https://fiveable.me/ap-psych/unit-1/research-methods-psychology/study-guide/0cwRKu5WpZguow9JROzH)
 
-<div style="text-align: center;">  
-<p>-------------------------------------------------------------------------</p>  
-</div>
+---
 
-## Ethical Considerations
+# Ethical Considerations
 
 AP 1.6 Ethical Guidelines in Psychology  
 
@@ -84,11 +78,9 @@ Describe/Classify the type of study & Explain why makes the experiment unethical
 - [#Robbers Cave](https://mypps.sharepoint.com/:p:/s/TheSocialPsychologyofMiddleSchool/EVRZAZIFc3VDo37V_wMhMg0BL4rsCHlY_7NrPSCNxdQA8Q?e=gy9tpk)  
 - [#The Bystander Effect](https://mypps.sharepoint.com/:p:/s/TheSocialPsychologyofMiddleSchool/EUp9rU7-3zBBoT9rx4P8KkYBmYTiOO_WabkTuhYxSfHk)
 
-<div style="text-align: center;">  
-<p>-------------------------------------------------------------------------</p>  
-</div>
+---
 
-## Numerically define a problem
+# Numerically define a problem
 
 AP 1.L Apply basic descriptive statistical concepts, including interpreting and constructing graphs and calculating simple descriptive statistics.  
 
@@ -116,11 +108,9 @@ Utilize Microsoft Excel/Google Sheets to create and establish the following for 
 - Measures of central tendency (Mean, Median, Mode)  
 - Variation (range, standard deviation)
 
-<div style="text-align: center;">  
-<p>-------------------------------------------------------------------------</p>  
-</div>
+---
 
-## Topics of study in Social Psychology
+# Topics of study in Social Psychology
 
 AP 9.J Describe processes that contribute to differential treatment of group members  
 AP 9.A Apply attribution theory to explain motives.  
@@ -153,11 +143,9 @@ Lookup unknown definitions on the [APA dictionary](https://dictionary.apa.org/)
 
 Explore the Gephi Social Network Diagram of "Middle School is Terrible" here (use Chrome for best results)  
 
-<div style="text-align: center;">  
-<p>-------------------------------------------------------------------------</p>  
-</div>
+---
 
-## Survey Design
+# Survey Design
 
 AP 5.8 - Biases and Errors in Thinking  
 AP 1.2 - Research method: survey research  
