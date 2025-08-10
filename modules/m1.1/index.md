@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Social Psychology of Adolescence
+title: 1.1 Fact Finding
 ---
 
-# Social Psychology of Adolescence
+# 1.1 Fact Finding
 
-**Focus Question:**  
-[#How do the people around us influence our feelings?](/sites/TheSocialPsychologyofMiddleSchool/Lists/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts/threaded.aspx?RootFolder=/sites/TheSocialPsychologyofMiddleSchool/Lists/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts%20%26%20feelings&FolderCTID=0x0120020041B3D54B460AE543A43BE9BD90BCBE42) - [#Flat](/sites/TheSocialPsychologyofMiddleSchool/Lists/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts/Flat.aspx?RootFolder=/sites/TheSocialPsychologyofMiddleSchool/Lists/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts%20%26%20feelings&FolderCTID=0x0120020041B3D54B460AE543A43BE9BD90BCBE42)
+## Focus Question:  
+[How do the people around us influence our feelings?](/sites/TheSocialPsychologyofMiddleSchool/Lists/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts/threaded.aspx?RootFolder=/sites/TheSocialPsychologyofMiddleSchool/Lists/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts%20%26%20feelings&FolderCTID=0x0120020041B3D54B460AE543A43BE9BD90BCBE42)
 
 - uses data as evidence to numerically define a problem in middle school  
 - designed a survey that accounted for a wide range of factors while isolating variables to numerically define a problem
@@ -15,13 +15,18 @@ title: Social Psychology of Adolescence
 <p>-------------------------------------------------------------------------</p>  
 </div>
 
-## What is Social Psychology?​​​​​​​
+# What is Social Psychology?​​​​​​​
 
 - [#What the Government wants you to think Psychology is](https://mypps.sharepoint.com/:b:/s/TheSocialPsychologyofMiddleSchool/EcPAOLT2Hy1JkXqMbUZasioBtGYgqy9FBwMK3lUg_18Jgg?e=IeKjuA)  
-- [#The New Norm(al)](https://mypps.sharepoint.com/:p:/s/TheSocialPsychologyofMiddleSchool/EYJO0wMi_LVKk14hV2LvgcUBq0MsgZ3GxwObnw35J76MVw?e=qEjq2D)  
+
+Long Term Project:
+- [#The New Norm(al)]({{ 'modules/m1.1/The New Norm(al) 00 Higher Level Thinking.pdf' | relative_url }})
+
+Daily Notebook:
 - [#Class Notebook](https://mypps.sharepoint.com/:w:/s/TheSocialPsychologyofMiddleSchool/EYRbxfTe_LhEqDlVEDdceo8BB2eaweZj95npUBBFg-j2cw?e=KZfHfU)  
 
-Entry #1: Why I am interested in how humans interact and the consequences of those interactions:  
+Save your own copy of the class notebook and use this 
+Entry #1: Why I am interested in how humans interact and the consequences of those interactions  
 
 [#What is Terrible about Middle School​​​​​​​?](https://forms.gle/D1gXuj8aMK6KpyGU6) (complete between 3-4 submissions)  
 
