@@ -1,6 +1,6 @@
 {
   "type": "network",
-  "version": "1.0",
+  "version": "2.0",
   "data": "data.json",
   "logo": {
     "file": "",
@@ -33,17 +33,17 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 16,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 25,
+      "minEdgeSize": 5,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 30
     },
     "mouseProperties": {
       "maxRatio": 20,
