@@ -8,14 +8,14 @@
     "text": "jboyce1"
   },
   "text": {
-    "more": "2025-What Is Terrible About Middle School\nDarker Red \t\u003d Severity * Relatability\nSize\t \u003d Relatability",
-    "intro": "2025_v2-What Is Terrible About Middle School\nDarker Red \t\u003d Severity * Relatability\nNode Size\t \u003d Relatability",
-    "title": "2025-What Is Terrible About Middle School"
+    "more": "2025-What Is Terrible About Adolescence\nDarker Red \t\u003d Severity * Relatability\nSize\t \u003d Relatability",
+    "intro": "Darker Red \t\u003d Higher Severity * Relatability\nLarger Node Size\t \u003d Higher Relatability",
+    "title": "What Is Terrible About Adolescence-2025"
   },
   "legend": {
     "edgeLabel": "Categories of Problems",
     "colorLabel": "Redder is Badder",
-    "nodeLabel": "What is Terrible About Adolecents"
+    "nodeLabel": "What is Terrible About Adolescence"
   },
   "features": {
     "search": true,
@@ -40,7 +40,7 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 10,
+      "maxEdgeSize": 5,
       "minEdgeSize": 1,
       "minNodeSize": 1,
       "maxNodeSize": 20
