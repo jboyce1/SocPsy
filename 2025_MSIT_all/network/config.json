@@ -28,7 +28,7 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "line", // was set to curve
+      "defaultEdgeType": "line",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
@@ -43,7 +43,7 @@
       "maxEdgeSize": 10,
       "minEdgeSize": 1,
       "minNodeSize": 1,
-      "maxNodeSize": 20 // 30 was too large
+      "maxNodeSize": 20
     },
     "mouseProperties": {
       "maxRatio": 20,
