@@ -14,20 +14,20 @@ title: 1.1 Fact Finding
 
 # What is Social Psychology?​​​​​​​
 
-- [#What the Government wants you to think Psychology is](https://apcentral.collegeboard.org/media/pdf/ap-psychology-course-and-exam-description.pdf)  
+- [What the Government wants you to think Psychology is](https://apcentral.collegeboard.org/media/pdf/ap-psychology-course-and-exam-description.pdf)  
 
 Long Term Project:
-- [#The New Norm(al)]({{ 'modules/m1.1/The New Norm(al) 00 Higher Level Thinking.pdf' | relative_url }})
+- [The New Norm(al)]({{ 'modules/m1.1/The New Norm(al) 00 Higher Level Thinking.pdf' | relative_url }})
 
 Daily Notebook:
-- [#Class Notebook](https://mypps.sharepoint.com/:w:/s/TheSocialPsychologyofMiddleSchool/EYRbxfTe_LhEqDlVEDdceo8BB2eaweZj95npUBBFg-j2cw?e=KZfHfU)  
+- [Class Notebook]({{ 'modules/m1.1/SocPsy class notebook Template.pdf' | relative_url }}) 
 
 Save your own copy of the class notebook 
 Entry #1: Why I am interested in how humans interact and the consequences of those interactions  
 
-[#What is Terrible about Middle School​​​​​​​?](https://forms.gle/D1gXuj8aMK6KpyGU6) (complete between 3-4 submissions)  
+[What is Terrible about Middle School​​​​​​​?](https://forms.gle/D1gXuj8aMK6KpyGU6) (complete between 3-4 submissions)  
 
-[#Classify the Results of “What is Terrible About Middle School”](https://docs.google.com/forms/d/e/1FAIpQLScsJ3E4-YGQNx4tr1i0_ZZuugpQui8OvOdtjIkzVaI00nR_yQ/viewform?usp=sf_link)
+[Classify the Results of “What is Terrible About Middle School”](https://docs.google.com/forms/d/e/1FAIpQLScsJ3E4-YGQNx4tr1i0_ZZuugpQui8OvOdtjIkzVaI00nR_yQ/viewform?usp=sf_link)
 
 ---
 
@@ -45,7 +45,7 @@ Know and be able to describe attributes of the following research methods:
 - longitudinal studies  
 - cross-sectional studies  
 
-[#Quizlet Flashcards](https://quizlet.com/_9crl7m?x=1jqt&i=3h252u) - [#Quizizz Flashcards](https://quizizz.com/join/flashcard/5fedf24629384a001bb5dced/start?redirOnGameExit=/admin/reports/5fedf37f0720ae001c8cd88d/players&source=report) - [#Quizizz Quiz](https://quizizz.com/join?gc=29888980) - [#Fiveble overview](https://fiveable.me/ap-psych/unit-1/research-methods-psychology/study-guide/0cwRKu5WpZguow9JROzH)
+[#Quizizz Flashcards](https://quizizz.com/join/flashcard/5fedf24629384a001bb5dced/start?redirOnGameExit=/admin/reports/5fedf37f0720ae001c8cd88d/players&source=report) - [#Quizizz Quiz](https://quizizz.com/join?gc=29888980) - [#Fiveble overview](https://fiveable.me/ap-psych/unit-1/research-methods-psychology/study-guide/0cwRKu5WpZguow9JROzH)
 
 ---
 
@@ -64,18 +64,19 @@ Know and be able to describe attributes of the following ethical considerations:
 
 [#Overview](https://fiveable.me/ap-psych/unit-1/ethical-guidelines-psychology/study-guide/GIjOrjlpa4zxf6xyrkjx) - [#Quizlet](https://quizlet.com/111335486/apa-ethical-guidelines-ap-psychology-flash-cards/)  
 
-[#SocPsy Class Notebook](https://pghschools.schoology.com/assignment/4623409793)  
+Review [Experimental Design in Psychology]({{ 'modules/m1.1/Social Psychology Experimental Design.pdf' | relative_url }}) as you watch the experiment on obedience and try to identify or determine each aspect.
 
-[#Stanley Milgram Experiment on Obedience](https://www.youtube.com/watch?v=xOYLCy5PVgM)  
+[#Stanley Milgram Experiment on Obedience](https://www.khanacademy.org/test-prep/mcat/behavior/social-psychology/v/milgram-experiment-on-obedience)  
 
-Entry #2: Look into one of the famous unethical studies and do the following:  
+Entry #2: Look into three of the famous unethical studies and do the following:  
 
-Describe/Classify the type of study & Explain why makes the experiment unethical using proper vocabulary and terms from within the field  
+2.1 Describe/Classify the type of study & Explain why makes the experiment unethical using proper vocabulary and terms from within the field  
 
-- [#Blue Eyed vs. Brown Eyed](https://mypps.sharepoint.com/:p:/s/TheSocialPsychologyofMiddleSchool/EYo3LA5FoQdNv69Wlzl1oLUBb9btYoTO-5hbJfLDWcmuqA?e=kRW0a7)  
-- [#Facebook Tinkers with Users' Emotions](https://mypps.sharepoint.com/:p:/s/TheSocialPsychologyofMiddleSchool/EZTKXiVk86NOtFpn4HDwICEB84Ne4FOeaO5F807aN95YlA?e=UXRmVf)  
-- [#Robbers Cave](https://mypps.sharepoint.com/:p:/s/TheSocialPsychologyofMiddleSchool/EVRZAZIFc3VDo37V_wMhMg0BL4rsCHlY_7NrPSCNxdQA8Q?e=gy9tpk)  
-- [#The Bystander Effect](https://mypps.sharepoint.com/:p:/s/TheSocialPsychologyofMiddleSchool/EUp9rU7-3zBBoT9rx4P8KkYBmYTiOO_WabkTuhYxSfHk)
+- [A selected list of unethical human research]({{ 'modules/m1.1/Unethical-Human-Subjects-Research-Final-MA.pdf' | relative_url }})
+
+2.2 Design your own study that could show a causal relationship in the world of social psychology. Be prepared to propose this study to the class will serve as the “human subjects review board." 
+- [Social Psychology Experimental Design - pdf]({{ 'modules/m1.1/Social Psychology Experimental Design - workbook.pdf' | relative_url }})
+- [Social Psychology Experimental Design - word]({{ 'modules/m1.1/Social Psychology Experimental Design - workbook.docx' | relative_url }})
 
 ---
 
