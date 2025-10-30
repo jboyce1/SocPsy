@@ -6,8 +6,7 @@ title: 1.1 Fact Finding
 # 1.1 Fact Finding
 
 ## Focus Question:  
-[How do the people around us influence our feelings?](/sites/TheSocialPsychologyofMiddleSchool/Lists/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts/threaded.aspx?RootFolder=/sites/TheSocialPsychologyofMiddleSchool/Lists/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts/How%20do%20the%20people%20around%20us%20influence%20our%20thoughts%20%26%20feelings&FolderCTID=0x0120020041B3D54B460AE543A43BE9BD90BCBE42)
-
+### How can we study people in a way that gives us real evidence instead of opinions?
 - uses data as evidence to numerically define a problem in middle school  
 - designed a survey that accounted for a wide range of factors while isolating variables to numerically define a problem
 
@@ -15,7 +14,7 @@ title: 1.1 Fact Finding
 
 # What is Social Psychology?​​​​​​​
 
-- [#What the Government wants you to think Psychology is](https://mypps.sharepoint.com/:b:/s/TheSocialPsychologyofMiddleSchool/EcPAOLT2Hy1JkXqMbUZasioBtGYgqy9FBwMK3lUg_18Jgg?e=IeKjuA)  
+- [#What the Government wants you to think Psychology is](https://apcentral.collegeboard.org/media/pdf/ap-psychology-course-and-exam-description.pdf)  
 
 Long Term Project:
 - [#The New Norm(al)]({{ 'modules/m1.1/The New Norm(al) 00 Higher Level Thinking.pdf' | relative_url }})
