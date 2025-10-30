@@ -32,8 +32,7 @@ Entry #1: Why I am interested in how humans interact and the consequences of tho
 ---
 
 # Research Methods in Psychology & Sociology
-
-AP 1.2 1F Differentiate types of research with regard to purpose, strengths, and weaknesses  
+<small>AP 1.2 1F Differentiate types of research with regard to purpose, strengths, and weaknesses  </small>
 
 Know and be able to describe attributes of the following research methods:  
 
@@ -50,8 +49,7 @@ Know and be able to describe attributes of the following research methods:
 ---
 
 # Ethical Considerations
-
-AP 1.6 Ethical Guidelines in Psychology  
+<small>AP 1.6 Ethical Guidelines in Psychology</small>  
 
 Know and be able to describe attributes of the following ethical considerations:  
 
@@ -82,17 +80,12 @@ Entry #2: Look into three of the famous unethical studies and do the following:
 ---
 
 # Numerically define a problem
-
-AP 1.L Apply basic descriptive statistical concepts, including interpreting and constructing graphs and calculating simple descriptive statistics.  
-
-1.1.1 uses data as evidence to numerically define a problem in middle school  
+<small>AP 1.L Apply basic descriptive statistical concepts, including interpreting and constructing graphs and calculating simple descriptive statistics.  
+1.1.1 uses data as evidence to numerically define a problem in middle school</small>
 
 Identify similarities to distinguish between Personal Troubles and Social Issues:  
-
 [#Link to results of "What is Terrible about Middle School?"](https://docs.google.com/spreadsheets/d/1eg35o0zMuPS_rLUNlq6ot8MS94JJddf-xeLIG1q_XZ0/edit#gid=0)
-
 Use Voyant to generate insights about the submissions and add your visualization to the class PowerPoint for visualizations. Here are some examples from previous years.  
-
 Add your visualizations to this Middle School is Terrible PowerPoint  
 
 Classify 'what is terrible about middle school' responses into the following categories:  
@@ -112,14 +105,12 @@ Utilize Microsoft Excel/Google Sheets to create and establish the following for 
 ---
 
 # Topics of study in Social Psychology
-
 <small>AP 9.J Describe processes that contribute to differential treatment of group members  
 AP 9.A Apply attribution theory to explain motives.</small>
 
 In-class discussion will be about topics of potential study. To facilitate this discussion, prepare by exploring some of the psychological driving factors of social conflict.  
 
 Know and be able to describe the following concepts in Social Psychology:  
-
 - [Gender](https://dictionary.apa.org/gender) 
 - [Race](https://dictionary.apa.org/race)  
 - [Ethnicity](https://dictionary.apa.org/ethnicity) 
@@ -168,7 +159,6 @@ Attempt to re-write the following questions to make them better survey questions
 Now for a presentation: Survey Design PowerPoint  
 
 Know and be able to describe the basis for using the Likert Scale  
-
 - [Likert Scale](https://www.simplypsychology.org/likert-scale.html)  
 - [Likert Scale: Explored and Explained](https://www.youtube.com/watch?v=GGlq7QFyZ3w)  
 - [Using Likert-Type Scales in the Social Sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6104375/)
