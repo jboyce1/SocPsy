@@ -113,30 +113,30 @@ Utilize Microsoft Excel/Google Sheets to create and establish the following for 
 
 # Topics of study in Social Psychology
 
-AP 9.J Describe processes that contribute to differential treatment of group members  
-AP 9.A Apply attribution theory to explain motives.  
+<small>AP 9.J Describe processes that contribute to differential treatment of group members  
+AP 9.A Apply attribution theory to explain motives.</small>
 
 In-class discussion will be about topics of potential study. To facilitate this discussion, prepare by exploring some of the psychological driving factors of social conflict.  
 
 Know and be able to describe the following concepts in Social Psychology:  
 
-- [#Gender](https://dictionary.apa.org/gender) 
-- [#Race](https://dictionary.apa.org/race)  
-- [#Ethnicity](https://dictionary.apa.org/ethnicity) 
-- [#Discrimination](https://dictionary.apa.org/discrimination) 
-- [#Bias](https://dictionary.apa.org/bias) 
-- [#Prejudice](https://dictionary.apa.org/prejudice)  
-- [#Outgroup](https://dictionary.apa.org/outgroup)  
-- [#Fundamental attribution error](https://dictionary.apa.org/fundamental-attribution-error)   
-- [#Self-serving bias](https://dictionary.apa.org/self-serving-bias)
-- [#Diffusion of responsibility](https://dictionary.apa.org/diffusion-of-responsibility)  
-- [#Ethnocentrism](https://dictionary.apa.org/ethnocentrism)  
-- [#Stereotype](https://dictionary.apa.org/stereotype) 
-- [#Mere-exposure effect](https://dictionary.apa.org/mere-exposure-effect)
-- [#Ingroup bias](https://dictionary.apa.org/ingroup-bias)  
-- [#Outgroup homogeneity bias](https://dictionary.apa.org/outgroup-homogeneity-bias)  
-- [#Scapegoat Theory](https://dictionary.apa.org/scapegoat-theory)  
-- [#Confirmation bias](https://dictionary.apa.org/confirmation-bias) 
+- [Gender](https://dictionary.apa.org/gender) 
+- [Race](https://dictionary.apa.org/race)  
+- [Ethnicity](https://dictionary.apa.org/ethnicity) 
+- [Discrimination](https://dictionary.apa.org/discrimination) 
+- [Bias](https://dictionary.apa.org/bias) 
+- [Prejudice](https://dictionary.apa.org/prejudice)  
+- [Outgroup](https://dictionary.apa.org/outgroup)  
+- [Fundamental attribution error](https://dictionary.apa.org/fundamental-attribution-error)   
+- [Self-serving bias](https://dictionary.apa.org/self-serving-bias)
+- [Diffusion of responsibility](https://dictionary.apa.org/diffusion-of-responsibility)  
+- [Ethnocentrism](https://dictionary.apa.org/ethnocentrism)  
+- [Stereotype](https://dictionary.apa.org/stereotype) 
+- [Mere-exposure effect](https://dictionary.apa.org/mere-exposure-effect)
+- [Ingroup bias](https://dictionary.apa.org/ingroup-bias)  
+- [Outgroup homogeneity bias](https://dictionary.apa.org/outgroup-homogeneity-bias)  
+- [Scapegoat Theory](https://dictionary.apa.org/scapegoat-theory)  
+- [Confirmation bias](https://dictionary.apa.org/confirmation-bias) 
 
 Lookup unknown definitions on the [APA dictionary](https://dictionary.apa.org/)  
 
