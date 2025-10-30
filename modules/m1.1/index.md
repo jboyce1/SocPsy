@@ -170,7 +170,6 @@ Identify problems with the following survey questions:
 - Overlapping response options  
 
 Attempt to re-write the following questions to make them better survey questions:  
-
 *There, I fixed it...*  
 
 Now for a presentation: Survey Design PowerPoint  
