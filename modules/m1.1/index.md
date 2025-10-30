@@ -12,6 +12,9 @@ title: 1.1 Fact Finding
 
 ---
 
+
+---
+
 # What is Social Psychology?​​​​​​​
 
 - [What the Government wants you to think Psychology is](https://apcentral.collegeboard.org/media/pdf/ap-psychology-course-and-exam-description.pdf)  
@@ -31,6 +34,9 @@ Entry #1: Why I am interested in how humans interact and the consequences of tho
 
 ---
 
+
+---
+
 # Research Methods in Psychology & Sociology
 <small>AP 1.2 1F Differentiate types of research with regard to purpose, strengths, and weaknesses  </small>
 
@@ -45,6 +51,9 @@ Know and be able to describe attributes of the following research methods:
 - cross-sectional studies  
 
 [#Quizizz Flashcards](https://quizizz.com/join/flashcard/5fedf24629384a001bb5dced/start?redirOnGameExit=/admin/reports/5fedf37f0720ae001c8cd88d/players&source=report) - [#Quizizz Quiz](https://quizizz.com/join?gc=29888980) - [#Fiveble overview](https://fiveable.me/ap-psych/unit-1/research-methods-psychology/study-guide/0cwRKu5WpZguow9JROzH)
+
+---
+
 
 ---
 
@@ -79,6 +88,9 @@ Entry #2: Look into three of the famous unethical studies and do the following:
 
 ---
 
+
+---
+
 # Numerically define a problem
 <small>AP 1.L Apply basic descriptive statistical concepts, including interpreting and constructing graphs and calculating simple descriptive statistics.  
 1.1.1 uses data as evidence to numerically define a problem in middle school</small>
@@ -101,6 +113,9 @@ Utilize Microsoft Excel/Google Sheets to create and establish the following for 
 
 - Measures of central tendency (Mean, Median, Mode)  
 - Variation (range, standard deviation)
+
+---
+
 
 ---
 
@@ -137,8 +152,10 @@ Explore the Gephi Social Network Diagram of "Middle School is Terrible" here (us
 
 ---
 
-# Survey Design
 
+---
+
+# Survey Design
 AP 5.8 - Biases and Errors in Thinking  
 AP 1.2 - Research method: survey research  
 AP 1.2 - Research method: correlational studies  
@@ -164,10 +181,11 @@ Know and be able to describe the basis for using the Likert Scale
 - [Using Likert-Type Scales in the Social Sciences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6104375/)
 
 Example of research hypothesis from previous classes  
-
 Example of survey questions from previous classes  
+---
 
-Create your own survey  
 
+---
+# Create your own survey  
 1.1.2 designed a survey that accounted for a wide range of factors while isolating variables to numerically define a problem  
 Student Created Survey (complete before moving to 1.2)  
