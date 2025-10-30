@@ -6,7 +6,7 @@ title: 1.1 Fact Finding
 # 1.1 Fact Finding
 
 ## Focus Question:  
-### How can we study people in a way that gives us real evidence instead of opinions?
+### [How can we study people in a way that gives us real evidence instead of opinions?](https://github.com/jboyce1/SocPsy/discussions/2)
 - uses data as evidence to numerically define a problem in middle school  
 - designed a survey that accounted for a wide range of factors while isolating variables to numerically define a problem
 
@@ -37,7 +37,7 @@ AP 1.2 1F Differentiate types of research with regard to purpose, strengths, and
 
 Know and be able to describe attributes of the following research methods:  
 
-- experiments - [#Good/Bad Hypothesis Quiz](https://forms.office.com/Pages/ResponsePage.aspx?id=mhxxjxzsu023kLsMdxsdzM6J33C5yQRJgc1SHWy_64dUQlVWWUFVRzVQVlNEUjNCRVdZSVI1Q1NHNS4u)  
+- experiments 
 - correlational studies  
 - survey research  
 - naturalistic observations  
@@ -74,7 +74,8 @@ Entry #2: Look into three of the famous unethical studies and do the following:
 
 - [A selected list of unethical human research]({{ 'modules/m1.1/Unethical-Human-Subjects-Research-Final-MA.pdf' | relative_url }})
 
-2.2 Design your own study that could show a causal relationship in the world of social psychology. Be prepared to propose this study to the class will serve as the “human subjects review board." 
+2.2 Design your own study that could show a causal relationship in the world of social psychology. Be prepared to propose this study to the class will serve as the “human subjects review board."  Before you start, remember all good experiments rely on good hypothesis, take the [Good/Bad Hypothesis Quiz](https://forms.office.com/Pages/ResponsePage.aspx?id=mhxxjxzsu023kLsMdxsdzM6J33C5yQRJgc1SHWy_64dUQlVWWUFVRzVQVlNEUjNCRVdZSVI1Q1NHNS4u) 
+
 - [Social Psychology Experimental Design - pdf]({{ 'modules/m1.1/Social Psychology Experimental Design - workbook.pdf' | relative_url }})
 - [Social Psychology Experimental Design - word]({{ 'modules/m1.1/Social Psychology Experimental Design - workbook.docx' | relative_url }})
 
